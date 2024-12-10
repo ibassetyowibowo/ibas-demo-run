@@ -1,0 +1,25 @@
+body{ font-family:'Times New Roman'; font-size:1em; }
+ul, ol{ margin-top: 0; margin-bottom: 0; }
+   ins{color:#2E97D3;}    del{color:#FF0000;} 
+.Normal{page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:1.07;margin-top:0pt;margin-bottom:8pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-size:11pt;font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';}
+.Default-Paragraph-Font{font-family:Calibri;mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri;lang:EN-US;mso-fareast-language:EN-US;mso-ansi-language:AR-SA;}
+.Normal-Table{}
+.No-List{}
+.msonormal{page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:1;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-size:12pt;font-family:'Times New Roman';mso-fareast-font-family:等线;mso-bidi-font-family:'Times New Roman';}
+.Comment-Text{page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:1;margin-top:0pt;margin-bottom:0pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-size:11pt;font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';}
+.Comment-Text-Char{font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';}
+.Footer{page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:1;margin-top:0pt;margin-bottom:0pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-size:12pt;font-family:'Times New Roman';mso-fareast-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';mso-fareast-language:ZH-CN;}
+.Footer-Char{font-size:12pt;font-family:'Times New Roman';mso-fareast-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';mso-fareast-language:ZH-CN;}
+.Comment-Subject{page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:1;margin-top:0pt;margin-bottom:8pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-size:10pt;font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-weight:bold;}
+.Comment-Subject-Char{font-size:10pt;font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-weight:bold;}
+.Balloon-Text{page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:1;margin-top:0pt;margin-bottom:0pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-size:9pt;font-family:'Segoe UI';mso-bidi-font-family:'Segoe UI';}
+.Balloon-Text-Char{font-size:9pt;font-family:'Segoe UI';mso-bidi-font-family:'Segoe UI';}
+.No-Spacing{page-break-inside:auto;page-break-after:auto;page-break-before:auto;margin-top:0pt;margin-bottom:0pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-size:11pt;font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';}
+.Revision{page-break-inside:auto;page-break-after:auto;page-break-before:auto;margin-top:0pt;margin-bottom:0pt;margin-left:0pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-size:11pt;font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';}
+.List-Paragraph{page-break-inside:auto;page-break-after:auto;page-break-before:auto;line-height:1;margin-top:0pt;margin-bottom:0pt;margin-left:36pt;text-indent:0pt;border-top-style: none;border-left-style: none;border-right-style: none;border-bottom-style: none;font-size:12pt;font-family:'Times New Roman';mso-fareast-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';mso-fareast-language:ZH-CN;}
+.Comment-Reference{font-size:8pt;font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';}
+.Page-Number1{font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';}
+.Comment-Text-Char1{font-size:10pt;font-family:Calibri;mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri;lang:EN-US;mso-fareast-language:EN-US;mso-ansi-language:AR-SA;}
+.Table-Grid{}
+.Plain-Table-3{}
+.Plain-Table-4{}

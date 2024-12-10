@@ -1,0 +1,213 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+/*
+body {
+    margin-bottom: 60px;
+}*/
+
+.SidebarFooter {
+    position: fixed;
+    bottom: 0;
+    width: 240px;
+    color: #000 !important;
+}
+
+.FooterLayout {
+    position: fixed;
+    bottom: 0;
+    /*width: 100%;*/
+}
+
+.hide {
+    display: none !important;
+}
+
+.TbHeaderGroup {
+    text-align: center !important;
+    border: none !important;
+}
+
+.pull-right {
+    float: right !important;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+.content {
+    overflow: hidden
+}
+
+.msg {
+    width: 97% !important;
+    color: #000 !important;
+    font-size: .8rem !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+}
+
+.from {
+    width: 97% !important;
+    color: #000 !important;
+    font-size: .8rem !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    font-weight: 800 !important;
+}
+
+.text-left {
+    text-align: left !important
+}
+
+.text-right {
+    text-align: right !important
+}
+
+.padding-custom {
+    padding-left: .5rem !important;
+    padding-right: .5rem !important;
+}
+
+.center-stepper {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.center-stepper-1 {
+    display: block;
+    margin-left: auto;
+    width: 8.3333333333%;
+}
+.center-stepper-2 {
+    display: block;
+    margin-left: auto;
+    width: 16.6666666667%;
+}
+.center-stepper-3 {
+    display: block;
+    margin-left: auto;
+    width: 25%;
+}
+.center-stepper-4 {
+    display: block;
+    margin-left: auto;
+    width: 33.3333333333%;
+}
+.center-stepper-5 {
+    display: block;
+    margin-left: auto;
+    width: 41.6666666667%;
+}
+.center-stepper-6 {
+    display: block;
+    margin-left: auto;
+    width: 50%;
+}
+.center-stepper-7 {
+    display: block;
+    margin-left: auto;
+    width: 58.3333333333%;
+}
+.center-stepper-8 {
+    display: block;
+    margin-left: auto;
+    width: 66.6666666667%;
+}
+.center-stepper-9 {
+    display: block;
+    margin-left: auto;
+    width: 75%;
+}
+.center-stepper-10 {
+    display: block;
+    margin-left: auto;
+    width: 83.3333333333%;
+}
+.center-stepper-11 {
+    display: block;
+    margin-left: auto;
+    width: 91.6666666667%;
+}
+ .center-stepper-12 {
+    display: block;
+    margin-left: auto;
+    width: 100%;
+}
+
+.input-group-btn {
+    position: relative;
+    font-size: 0;
+    white-space: nowrap;
+    width: 1%;
+    vertical-align: middle;
+    display: table-cell
+}
+
+.btn-custom-swa {
+    margin-right: 5px !important;
+    margin-left: 5px !important;
+}
+
+.feather-17 {
+    width: 17px;
+    height: 17px;
+}
+
+.feather-10 {
+    width: 10px;
+    height: 10px;
+}
+
+.feather-12 {
+    width: 12px;
+    height: 12px;
+}
+
+.header-item {
+    color: green !important;
+}
+
+.form-control-disabled {
+    background-color: #e9ecef; /* Light gray background */
+    cursor: not-allowed; /* Indicate that the control is not interactive */
+}
+
+.control-label-sm
+{
+    font-size:11px !important;
+}
+
+.flot-chart-wrapper .flot-chart {
+    width: 100%;
+    position: relative;
+    max-width: none;
+    height: 300px
+}
+
+@media (max-width:767px) {
+    .flot-chart-wrapper {
+        height: 300px;
+        min-height: 300px
+    }
+
+        .flot-chart-wrapper .flot-chart {
+            height: 100%
+        }
+}

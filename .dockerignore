@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Include Dockerfile in all directories
+!Dockerfile
+!**/Dockerfile
+
+# Include specific folders or files
+!src/

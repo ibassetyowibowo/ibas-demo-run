@@ -1,0 +1,21 @@
+runtime: custom
+env: flex
+
+# The app should listen on the port specified by the $PORT environment variable (default 8080)
+env_variables:
+  ASPNETCORE_URLS: "http://0.0.0.0:$PORT"
+  DOTNET_RUNNING_IN_CONTAINER: true
+
+# Optional: If you want to scale your app based on load
+automatic_scaling:
+  min_instances: 1
+  max_instances: 10
+  target_cpu_utilization: 0.65
+
+# Optional: If you want to enable health checks
+health_check:
+  enable_health_check: true
+  check_interval_sec: 5
+  timeout_sec: 4
+  unhealthy_threshold: 2
+  healthy_threshold: 2

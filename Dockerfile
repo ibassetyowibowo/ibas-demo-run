@@ -5,7 +5,7 @@ COPY ./src /app
 
 # Copy the published application files from the local machine into the container
 WORKDIR /app
-EXPOSE 5001
+EXPOSE 8080
 
 # Set the entry point to run the application
 ENTRYPOINT ["dotnet", "E-Ticketing.dll"]
